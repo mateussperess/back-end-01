@@ -2,10 +2,10 @@
 
 Make sure to pull into your localhost folder 
 
-# login-robust
+## login-robust
 This exercise focuses on implementing a basic login system using PHP and sessions. The objective is to authenticate users and protect restricted pages while applying good development practices and security measures.
 
-# login-robust structure
+### login-robust structure
 ```
 login-robust/
 │
