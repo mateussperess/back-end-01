@@ -9,11 +9,10 @@ This exercise focuses on implementing a basic login system using PHP and session
 ```
 login-robust/
 │
-├── db_usuarios.php       # "Banco de dados" simulado com usuários e senhas
-├── auth.php              # Funções de autenticação
-├── login.php             # Formulário de login
-├── login_handler.php     # Lógica de validação de login
-├── perfil.php            # Página protegida para o usuário autenticado
-├── logout.php            # Lógica para logout do usuário
-└── README.md             # Documentação do projeto
+├── db_usuarios.php       # "Database" simulated with users and passwords 
+├── auth.php              # Authenticate functions
+├── login.php             # Login form
+├── login_handler.php     # Validation logic login
+├── perfil.php            # Protected page to authenticate user
+└── logout.php            # Logout user logic
 ```
